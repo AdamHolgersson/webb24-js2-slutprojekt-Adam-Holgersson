@@ -5,6 +5,7 @@ import { MainContent } from './MainContent';
 import { fetchProducts } from "../utils/fetchProducts";
 import { updateProductStock } from "../utils/updateProduct";
 
+// huvud kod
 export default function App() {
     const [products, setProducts] = useState([]);
     const [cartItems, setCartItems] = useState([]);
