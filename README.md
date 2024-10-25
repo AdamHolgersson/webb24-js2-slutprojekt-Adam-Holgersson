@@ -2,4 +2,4 @@
 Slutprojekt JS2 Webbshop
 
 En webbshop för att redovisa mina kunskaper i Javascript. 
-En script uppbyggd på främst react med firebase som databas.
+Script uppbyggd på främst react med firebase som databas.
