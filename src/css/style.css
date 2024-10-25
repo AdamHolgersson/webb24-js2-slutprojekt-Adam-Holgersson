@@ -1,0 +1,53 @@
+img {
+    width: 24vw;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px gray;
+}
+button {
+    box-shadow: 10px 10px 5px gray;
+    background-color: beige;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bolder;
+}
+nav {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+nav>button {
+    background-color: rgba(5, 5, 255, 0.518);
+    border-color: black;
+    border-radius: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 15px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+#root>div {
+    text-align: center;
+}
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#root>div>div {
+    display: inline-grid;
+    margin: 10px;
+    border-radius: 20px;
+}
+#root>div>div>button {
+    margin-top: 15px;
+    padding: 10px 10px;
+}
+#root>div>button {
+    padding: 5px 5px;
+    border-radius: 10px;
+}
+#root>h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 5vw;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
