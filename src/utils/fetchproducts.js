@@ -1,4 +1,4 @@
-// Funktion för att hämta produkterna och varsitt unikt id för hantering.
+// Funktion för att hämta produkterna och varsitt unikt id för hantering..
 export async function fetchProducts() {
     const url = "https://t-on-the-go-default-rtdb.europe-west1.firebasedatabase.app/products.json";
 

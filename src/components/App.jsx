@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Navbar } from './Navbar';
 import { Loader } from './Loader';
 import { MainContent } from './MainContent';
-import { fetchProducts } from "../utils/fetchProducts.js";
+import { fetchProducts } from "../utils/fetchproducts.js";
 import { updateProductStock } from "../utils/updateProduct.js";
 
 // huvud kod
